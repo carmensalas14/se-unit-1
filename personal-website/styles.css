@@ -1,1 +1,80 @@
 /* Your CSS Goes below! */
+body{
+    background-color:white; 
+}
+main{
+    text-align: center;
+    margin:32;
+    padding:15;
+    background-color:#eeeeee;
+    color:#333333;
+    font-family: FuraCode Nerd Font, -apple-system, "system-ui", BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, "sans-serif", Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+    height:60px;
+    padding:25px 0px 0px;
+}
+ p{
+     font-size:16px;
+ }
+
+#img-figure{
+    padding:10px;
+
+    background-color: #ffffff;
+    margin:0;
+
+}
+
+figcaption{
+    margin:15px 0px 5px;
+    font-size:17px;
+}
+
+ul{
+    text-align: left;
+    max-width: 580px;
+    margin:0px auto ;
+}
+
+li{
+    margin:20px 0px 16px 0px;
+}
+
+#omar-img{
+    /*margin:49;*/
+    width:80%;
+}
+#timeline-list{
+    font-size:16px;
+    margin:0px auto;
+    max-width:300px;
+}
+
+h3{
+    font-size:19px;
+    padding:60;
+}
+
+h2{
+    font-size: 25px;
+}
+blockquote{
+    text-align: left;
+    font-size:16px;
+    margin:0px auto;
+    max-width:600px;
+   
+}
+
+
+a{
+    color:#6893b4;
+}
+footer{
+    margin:16px auto;
+} 
+
+
